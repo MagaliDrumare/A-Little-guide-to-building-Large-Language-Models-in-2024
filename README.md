@@ -56,7 +56,6 @@ To showcase VideoPoet's capabilities, we have produced a short movie composed of
 - https://www.youtube.com/shorts/70wZKfx6Ylk
 -https://sites.research.google/videopoet/
 
-
 ### LATTE3D 
 The LATTE3D model rapidly transforms text prompts into high-quality 3D shapes that could help populate virtual worlds.
 - https://blogs.nvidia.com/blog/latte-3d-generative-ai-research/
