@@ -30,7 +30,9 @@ url
 
 ## 🎯 Focus n°1 
 
-### Item 1 
+### Moirai: A Time Series Foundation Model for Universal Forecasting
+MOIRAI [1], a groundbreaking TS foundation model by Salesforce. MOIRAI is awesome in terms of performance — but more importantly, the authors have pledged to open-source the model and its training dataset!
+- https://blog.salesforceairesearch.com/moirai/
 
 TEXT 
 
