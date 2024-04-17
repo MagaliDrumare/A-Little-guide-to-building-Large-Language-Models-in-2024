@@ -47,8 +47,8 @@ Concepts/tools/techniques for training good performance LLM explained by Thom Wo
   * DPO - Direct Preference Optimization new way to align model : https://youtu.be/XZLc09hkMwA?feature=shared
 
 * Step 4 : Fast inference / deploy the model
- * Quantization - https://huggingface.co/blog/4bit-transformers-bitsandbytes
- * Speculative Decoding - Medusa : https://youtu.be/hMs8VNRy5Ys?feature=shared
+  * Quantization - https://huggingface.co/blog/4bit-transformers-bitsandbytes
+  * Speculative Decoding - Medusa : https://youtu.be/hMs8VNRy5Ys?feature=shared
 
 *  Step 5 : Share the model with the world
   - https://chat.lmsys.org/?leaderboard
