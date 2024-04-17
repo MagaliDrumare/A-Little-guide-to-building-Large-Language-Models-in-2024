@@ -28,14 +28,27 @@ MOIRAI [1], a groundbreaking TS foundation model by Salesforce. MOIRAI is awesom
 
 ## 🎯 Focus on A Little guide to building Large Language Models in 2024 
 This is a post-recording of a 75min lecture I gave two weeks ago on how to train a LLM from scratch in 2024. I tried to keep it short and comprehensive – focusing on concepts that are crucial for training good LLM but often hidden in tech reports.
-In the lecture, I introduce the students to all the important concepts/tools/techniques for training good performance LLM:
-* finding, preparing and evaluating web scale data
-* understanding model parallelism and efficient training
-* fine-tuning/aligning models
-* fast inference
-  - https://huggingface.co/posts/thomwolf/706415412818350
 
-### 
+ - https://huggingface.co/posts/thomwolf/706415412818350
+
+In the lecture, I introduce the students to all the important concepts/tools/techniques for training good performance LLM:
+* Finding, preparing and evaluating web scale data
+Datasets examples : Cosmopedia v1.0  https://github.com/huggingface/cosmopedia , Starcoder2  https://github.com/bigcode-project/starcoder2/
+Filter Data tools by Meta : https://fasttext.cc/
+Process and deduplicate text data at a very large scale: https://github.com/huggingface/datatrove
+Evaluating the data with Face LightEval is a lightweight LLM evaluation : https://github.com/huggingface/lighteval
+
+
+* Understanding model parallelism and efficient training
+* Fine-tuning/aligning models
+* Fast inference
+ 
+    
+
+
+
+ 
+
 
 
 
