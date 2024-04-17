@@ -51,7 +51,7 @@ Concepts/tools/techniques for training good performance LLM explained by Thom Wo
   * Speculative Decoding - Medusa : https://youtu.be/hMs8VNRy5Ys?feature=shared
 
 *  Step 5 : Share the model with the world
-  - https://chat.lmsys.org/?leaderboard
+   *  https://chat.lmsys.org/?leaderboard
  
 
 ## 🎯 Focus on Generative Arts 
