@@ -22,7 +22,6 @@ MOIRAI [1], a groundbreaking TS foundation model by Salesforce. MOIRAI is awesom
 - 
 - 
 - 
-- 
 
 
 ## 🎯 Focus on a Little guide to building Large Language Models in 2024 
@@ -50,7 +49,7 @@ Concepts/tools/techniques for training good performance LLM explained by Thom Wo
   * Quantization - https://huggingface.co/blog/4bit-transformers-bitsandbytes
   * Speculative Decoding - Medusa : https://youtu.be/hMs8VNRy5Ys?feature=shared
 
-*  Step 5 : Share the model with the world
+*  Step 5 : Share the model with the world 
    *  https://chat.lmsys.org/?leaderboard
  
 
@@ -81,13 +80,14 @@ url
 
 ## 📖 AI Learning / Courses 
 
-### Video 1 
-URL 
+### Blog - Agentic Design Patterns 
+- https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance
 
+###  Preprocessing Unstructured Data for LLM Applications
+Learn to extract and normalize content from a wide variety of document types, such as PDFs, PowerPoints, Word, and HTML files, tables, and images to expand the information accessible to your LLM.
+https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/
 
-### Course 1 
-URL 
-
-### Course 2 
-URL 
+### Quantization Fundamentals with Hugging Face
+Generative AI models, like large language models, often exceed the capabilities of consumer-grade hardware and are expensive to run. Compressing models through methods such as quantization makes them more efficient, faster, and accessible. This allows them to run on a wide variety of devices, including smartphones, personal computers, and edge devices, and minimizes performance degradation.
+https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/
 
