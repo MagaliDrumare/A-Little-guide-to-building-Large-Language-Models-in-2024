@@ -31,27 +31,19 @@ This is a post-recording of a 75min lecture I gave two weeks ago on how to train
 
  - https://huggingface.co/posts/thomwolf/706415412818350
 
-In the lecture, I introduce the students to all the important concepts/tools/techniques for training good performance LLM:
-* Finding, preparing and evaluating web scale data
+Concepts/tools/techniques for training good performance LLM:
+* Step 1 : Finding, preparing and evaluating web scale data
   * Datasets examples : Cosmopedia v1.0  https://github.com/huggingface/cosmopedia , Starcoder2  https://github.com/bigcode-project/starcoder2/
   * Filter Data tools by Meta : https://fasttext.cc/
   * Process and deduplicate text data at a very large scale: https://github.com/huggingface/datatrove
   * Evaluating the data with Face LightEval is a lightweight LLM evaluation : https://github.com/huggingface/lighteval
 
 
-* Understanding model parallelism and efficient training
-* Fine-tuning/aligning models
-* Fast inference
+* Step 2 : Understanding model parallelism and efficient training
+* Step 3 : Fine-tuning/aligning models
+* Step 4 : Fast inference
  
     
-
-
-
- 
-
-
-
-
 
 
 ## 🎯 Focus on Generative Arts 
