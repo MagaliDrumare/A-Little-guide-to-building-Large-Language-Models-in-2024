@@ -29,6 +29,7 @@ MOIRAI [1], a groundbreaking TS foundation model by Salesforce. MOIRAI is awesom
 This is a post-recording of a 75min lecture I gave two weeks ago on how to train a LLM from scratch in 2024. I tried to keep it short and comprehensive – focusing on concepts that are crucial for training good LLM but often hidden in tech reports.
 
  - https://huggingface.co/posts/thomwolf/706415412818350
+ - https://youtu.be/2-SPH9hIKT8?feature=shared
 
 Concepts/tools/techniques for training good performance LLM:
 * Step 1 : Finding, preparing and evaluating web scale data
