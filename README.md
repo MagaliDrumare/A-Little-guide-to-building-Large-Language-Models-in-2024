@@ -26,12 +26,11 @@ MOIRAI [1], a groundbreaking TS foundation model by Salesforce. MOIRAI is awesom
 
 
 ## 🎯 Focus on a Little guide to building Large Language Models in 2024 
-This is a post-recording of a 75min lecture I gave two weeks ago on how to train a LLM from scratch in 2024. I tried to keep it short and comprehensive – focusing on concepts that are crucial for training good LLM but often hidden in tech reports.
-
+This is a post-recording of a 75 min lecture on how to train a LLM from scratch in 2024 made by Thom Wolf - Hugging Face 
  - https://huggingface.co/posts/thomwolf/706415412818350
  - https://youtu.be/2-SPH9hIKT8?feature=shared
 
-Concepts/tools/techniques for training good performance LLM:
+Concepts/tools/techniques for training good performance LLM explained by Thom Wolf 
 * Step 1 : Finding, preparing and evaluating web scale data
   * Datasets examples : Cosmopedia v1.0  https://github.com/huggingface/cosmopedia , Starcoder2  https://github.com/bigcode-project/starcoder2/
   * Filter Data tools by Meta : https://fasttext.cc/
@@ -47,7 +46,7 @@ Concepts/tools/techniques for training good performance LLM:
   * RLFH Reinforcement learning from human feedback old fashion : https://www.youtube.com/live/2MBJOuVq380?feature=shared
   * DPO  Direct Preference Optimization new way to align model : https://youtu.be/XZLc09hkMwA?feature=shared
 
-* Step 4 : Fast inference
+* Step 4 : Fast inference / deploy the model 
  
     
 
