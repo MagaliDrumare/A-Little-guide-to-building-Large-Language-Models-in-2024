@@ -40,6 +40,10 @@ Concepts/tools/techniques for training good performance LLM:
 
 
 * Step 2 : Understanding model parallelism and efficient training
+  * 4D Parallelims : Data Parallelism, Tensor Parallelism, Pipeline Parallelism, Sequence Parallelism  : https://docs.aws.amazon.com/sagemaker/latest/dg/model-parallel-intro.html#model-parallel-intro-sdp
+  * Capacity and architecture : MOE (Mixed of experts), Mamba : https://youtu.be/mwO6v4BlgZQ?feature=shared , https://youtu.be/9dSkvxS2EB0?feature=shared
+  * Nanotron The objective of this library is to provide tools to implement efficient training : https://github.com/huggingface/nanotron
+  
 * Step 3 : Fine-tuning/aligning models
 * Step 4 : Fast inference
  
