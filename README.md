@@ -2,11 +2,6 @@
 
 # Generative AI & AI _newsletter_DATE 
 
-## 🎬 Newsletter_DATE video 
-made with https://aiapp-fr.vidnoz.com/
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5BPlf4jZnpw/0.jpg)](https://www.youtube.com/watch?v=5BPlf4jZnpw)
-
 
 ## 🚀  AI News 
 
@@ -19,36 +14,31 @@ url
 
 
 ### AI developments this week :
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
-
-## 🎯 Focus n°1 
-
-### Moirai: A Time Series Foundation Model for Universal Forecasting
+- Moirai: A Time Series Foundation Model for Universal Forecasting
 MOIRAI [1], a groundbreaking TS foundation model by Salesforce. MOIRAI is awesome in terms of performance — but more importantly, the authors have pledged to open-source the model and its training dataset!
 - https://blog.salesforceairesearch.com/moirai/
 
-TEXT 
+- 
+- 
+- 
+- 
+- 
+- 
 
-url 
 
-### Item 2 
+## 🎯 Focus on A Little guide to building Large Language Models in 2024 
+This is a post-recording of a 75min lecture I gave two weeks ago on how to train a LLM from scratch in 2024. I tried to keep it short and comprehensive – focusing on concepts that are crucial for training good LLM but often hidden in tech reports.
+In the lecture, I introduce the students to all the important concepts/tools/techniques for training good performance LLM:
+* finding, preparing and evaluating web scale data
+* understanding model parallelism and efficient training
+* fine-tuning/aligning models
+* fast inference
+  - https://huggingface.co/posts/thomwolf/706415412818350
 
-TEXT 
+### 
 
-url 
 
-### Item 3 
 
-TEXT 
-
-url 
 
 
 ## 🎯 Focus on Generative Arts 
