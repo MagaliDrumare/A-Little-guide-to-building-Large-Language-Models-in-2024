@@ -26,7 +26,7 @@ MOIRAI [1], a groundbreaking TS foundation model by Salesforce. MOIRAI is awesom
 - 
 
 
-## 🎯 Focus on A Little guide to building Large Language Models in 2024 
+## 🎯 Focus on a Little guide to building Large Language Models in 2024 
 This is a post-recording of a 75min lecture I gave two weeks ago on how to train a LLM from scratch in 2024. I tried to keep it short and comprehensive – focusing on concepts that are crucial for training good LLM but often hidden in tech reports.
 
  - https://huggingface.co/posts/thomwolf/706415412818350
