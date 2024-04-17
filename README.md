@@ -85,9 +85,9 @@ url
 
 ###  Preprocessing Unstructured Data for LLM Applications
 Learn to extract and normalize content from a wide variety of document types, such as PDFs, PowerPoints, Word, and HTML files, tables, and images to expand the information accessible to your LLM.
-https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/
+- https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/
 
 ### Quantization Fundamentals with Hugging Face
 Generative AI models, like large language models, often exceed the capabilities of consumer-grade hardware and are expensive to run. Compressing models through methods such as quantization makes them more efficient, faster, and accessible. This allows them to run on a wide variety of devices, including smartphones, personal computers, and edge devices, and minimizes performance degradation.
-https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/
+- https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/
 
