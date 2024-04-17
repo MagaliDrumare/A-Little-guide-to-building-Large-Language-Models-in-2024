@@ -14,8 +14,8 @@ url
 
 
 ### AI developments this week :
-- Moirai: A Time Series Foundation Model for Universal Forecasting
-MOIRAI, a groundbreaking TS foundation model by Salesforce. MOIRAI is awesome in terms of performance — but more importantly, the authors have pledged to open-source the model and its training dataset! https://blog.salesforceairesearch.com/moirai/
+- Moirai: A Time Series Foundation Model for Universal Forecasting, 
+a groundbreaking TS foundation model by Salesforce. MOIRAI is awesome in terms of performance — but more importantly, the authors have pledged to open-source the model and its training dataset! https://blog.salesforceairesearch.com/moirai/
 
 - 
 - 
