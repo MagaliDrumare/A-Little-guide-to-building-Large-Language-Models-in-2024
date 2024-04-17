@@ -43,13 +43,16 @@ Concepts/tools/techniques for training good performance LLM explained by Thom Wo
   * Nanotron The objective of this library is to provide tools to implement efficient training : https://github.com/huggingface/nanotron
   
 * Step 3 : Fine-tuning/aligning models
-  * RLFH Reinforcement learning from human feedback old fashion : https://www.youtube.com/live/2MBJOuVq380?feature=shared
-  * DPO  Direct Preference Optimization new way to align model : https://youtu.be/XZLc09hkMwA?feature=shared
+  * RLFH - Reinforcement learning from human feedback old fashion : https://www.youtube.com/live/2MBJOuVq380?feature=shared
+  * DPO - Direct Preference Optimization new way to align model : https://youtu.be/XZLc09hkMwA?feature=shared
 
-* Step 4 : Fast inference / deploy the model 
+* Step 4 : Fast inference / deploy the model
+ * Quantization - https://huggingface.co/blog/4bit-transformers-bitsandbytes
+ * Speculative Decoding - Medusa : https://youtu.be/hMs8VNRy5Ys?feature=shared
+
+*  Step 5 : Share the model with the world
+  - https://chat.lmsys.org/?leaderboard
  
-    
-
 
 ## 🎯 Focus on Generative Arts 
 
