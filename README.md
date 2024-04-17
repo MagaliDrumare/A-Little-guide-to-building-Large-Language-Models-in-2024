@@ -38,13 +38,15 @@ Concepts/tools/techniques for training good performance LLM:
   * Process and deduplicate text data at a very large scale: https://github.com/huggingface/datatrove
   * Evaluating the data with Face LightEval is a lightweight LLM evaluation : https://github.com/huggingface/lighteval
 
-
 * Step 2 : Understanding model parallelism and efficient training
   * 4D Parallelims : Data Parallelism, Tensor Parallelism, Pipeline Parallelism, Sequence Parallelism  : https://docs.aws.amazon.com/sagemaker/latest/dg/model-parallel-intro.html#model-parallel-intro-sdp
   * Capacity and architecture : MOE (Mixed of experts), Mamba : https://youtu.be/mwO6v4BlgZQ?feature=shared , https://youtu.be/9dSkvxS2EB0?feature=shared
   * Nanotron The objective of this library is to provide tools to implement efficient training : https://github.com/huggingface/nanotron
   
 * Step 3 : Fine-tuning/aligning models
+  * RLFH Reinforcement learning from human feedback old fashion : https://www.youtube.com/live/2MBJOuVq380?feature=shared
+  * DPO  Direct Preference Optimization new way to align model : https://youtu.be/XZLc09hkMwA?feature=shared
+
 * Step 4 : Fast inference
  
     
