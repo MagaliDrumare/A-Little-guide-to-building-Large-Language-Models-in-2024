@@ -33,10 +33,10 @@ This is a post-recording of a 75min lecture I gave two weeks ago on how to train
 
 In the lecture, I introduce the students to all the important concepts/tools/techniques for training good performance LLM:
 * Finding, preparing and evaluating web scale data
-* * Datasets examples : Cosmopedia v1.0  https://github.com/huggingface/cosmopedia , Starcoder2  https://github.com/bigcode-project/starcoder2/
-* * Filter Data tools by Meta : https://fasttext.cc/
-* * Process and deduplicate text data at a very large scale: https://github.com/huggingface/datatrove
-* * Evaluating the data with Face LightEval is a lightweight LLM evaluation : https://github.com/huggingface/lighteval
+  * Datasets examples : Cosmopedia v1.0  https://github.com/huggingface/cosmopedia , Starcoder2  https://github.com/bigcode-project/starcoder2/
+  * Filter Data tools by Meta : https://fasttext.cc/
+  * Process and deduplicate text data at a very large scale: https://github.com/huggingface/datatrove
+  * Evaluating the data with Face LightEval is a lightweight LLM evaluation : https://github.com/huggingface/lighteval
 
 
 * Understanding model parallelism and efficient training
