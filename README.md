@@ -26,10 +26,6 @@ Mixtral 8x22B comes with the following strengths:
   * Its 64K tokens context window allows precise information recall from large documents
 
   
- 
-
-
-
 ## 🎯 A Little guide to building Large Language Models in 2024 
 This is a post-recording of a 75 min lecture on how to train a LLM from scratch in 2024 made by Thom Wolf - Hugging Face 
  - https://huggingface.co/posts/thomwolf/706415412818350
@@ -69,19 +65,6 @@ To showcase VideoPoet's capabilities, we have produced a short movie composed of
 ### LATTE3D 
 The LATTE3D model rapidly transforms text prompts into high-quality 3D shapes that could help populate virtual worlds.
 - https://blogs.nvidia.com/blog/latte-3d-generative-ai-research/
-
-
-TEXT 
-
-url 
-
-
-### Item 3 
-
-TEXT 
-
-url 
-
 
 
 ## 📖 AI Learning / Courses 
