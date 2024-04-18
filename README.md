@@ -5,12 +5,11 @@
 
 ## 🚀  AI News 
 
-### News Focus  
-- 
-url
-
-- 
-url 
+### Hugging Face got hacked 
+Wiz researchers discovered architecture risks that may compromise AI-as-a-Service providers and put customer data at risk. 
+Wiz and Hugging Face worked together to mitigate the issue.
+- https://www.wiz.io/blog/wiz-and-hugging-face-address-risks-to-ai-infrastructure
+- https://youtu.be/ZcoOW8nqVP8?feature=shared
 
 
 ### AI developments this week :
