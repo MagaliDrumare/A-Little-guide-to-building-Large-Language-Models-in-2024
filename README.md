@@ -1,6 +1,4 @@
-# AI_news_DATE
-
-# Generative AI & AI _newsletter_DATE 
+# Generative AI & AI _newsletter_15.04
 
 
 ## 🚀  AI News 
