@@ -17,13 +17,14 @@ url
 - Moirai: A Time Series Foundation Model for Universal Forecasting, 
 a groundbreaking TS foundation model by Salesforce. MOIRAI is awesome in terms of performance — but more importantly, the authors have pledged to open-source the model and its training dataset! https://blog.salesforceairesearch.com/moirai/
 
-- Mixtral 8x22B open model. It sets a new standard for performance and efficiency within the AI community. It is a sparse Mixture-of-Experts (SMoE) model that uses only 39B active parameters out of 141B, offering unparalleled cost efficiency for its size.
+- Mixtral 8x22B open model. https://mistral.ai/fr/news/mixtral-8x22b/
+It sets a new standard for performance and efficiency within the AI community. It is a sparse Mixture-of-Experts (SMoE) model that uses only 39B active parameters out of 141B, offering unparalleled cost efficiency for its size.
 Mixtral 8x22B comes with the following strengths:
- * It is fluent in English, French, Italian, German, and Spanish
- * It has strong mathematics and coding capabilities
- * It is natively capable of function calling; along with the constrained output mode implemented on la Plateforme, this enables application development and tech stack modernisation at scale
- * Its 64K tokens context window allows precise information recall from large documents
-- https://mistral.ai/fr/news/mixtral-8x22b/
+  * It is fluent in English, French, Italian, German, and Spanish
+  * It has strong mathematics and coding capabilities
+  * It is natively capable of function calling; along with the constrained output mode implemented on la Plateforme, this enables application development and tech stack modernisation at scale
+  * Its 64K tokens context window allows precise information recall from large documents
+
   
  
 
