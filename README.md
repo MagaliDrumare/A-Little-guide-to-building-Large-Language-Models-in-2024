@@ -9,6 +9,10 @@ Wiz and Hugging Face worked together to mitigate the issue.
 - https://www.wiz.io/blog/wiz-and-hugging-face-address-risks-to-ai-infrastructure
 - https://youtu.be/ZcoOW8nqVP8?feature=shared
 
+### HuggingChat 
+
+https://apps.apple.com/fr/app/huggingchat/id6476778843
+
 
 ### AI developments this week :
 
