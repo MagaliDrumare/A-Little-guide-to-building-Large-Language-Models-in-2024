@@ -15,6 +15,7 @@ Wiz and Hugging Face worked together to mitigate the issue.
 - Meta’s Llama 3, the next iteration of the open-access Llama family, is now released and available at Hugging Face. 
 https://huggingface.co/blog/llama3
 https://www.databricks.com/blog/building-enterprise-genai-apps-meta-llama-3-databricks
+https://x.com/karpathy/status/1781028605709234613?s=46
 
 - Moirai: A Time Series Foundation Model for Universal Forecasting, 
 a groundbreaking TS foundation model by Salesforce. MOIRAI is awesome in terms of performance — but more importantly, the authors have pledged to open-source the model and its training dataset! https://blog.salesforceairesearch.com/moirai/
