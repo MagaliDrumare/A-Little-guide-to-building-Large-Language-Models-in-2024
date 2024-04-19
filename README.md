@@ -10,7 +10,7 @@ Wiz and Hugging Face worked together to mitigate the issue.
 - https://youtu.be/ZcoOW8nqVP8?feature=shared
 
 ### HuggingChat 
-
+The app is super polished and gives you access to the community's best open AI models, on the go.
 https://apps.apple.com/fr/app/huggingchat/id6476778843
 
 
